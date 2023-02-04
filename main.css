@@ -7,7 +7,7 @@ html, body{
     background-repeat:no-repeat;
     height:99vh;
     width:99%;
-    overflow-x:hidden;
+    overflow:hidden;
     font-family: 'Varela Round', sans-serif;
 }
 ::-webkit-scrollbar{
@@ -15,7 +15,7 @@ html, body{
 }
 .render{
     text-align:center;
-    margin-top:35vh;
+    margin-top:30vh;
 }
 
 .link{

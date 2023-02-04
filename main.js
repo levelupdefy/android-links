@@ -28,7 +28,7 @@ const urls = [
 ]
 
 for(let i = 0; i < urls[0].length; i++){
-    const h3 = document.createElement("h3");
+    const h3 = document.createElement("p");
     const a = document.createElement("a");
     a.href = urls[1][i];
     a.innerHTML = urls[0][i];
